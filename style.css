@@ -30,6 +30,10 @@ nav#topmenu ul {
     padding: 0;
     margin: 0;
 }
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
 
 nav#topmenu li {
     Font-size: 24px;
